@@ -1,11 +1,13 @@
 ##LINE FOLLOWER BODY 3D VIEW
-<img width="2937" height="1184" alt="image" src="https://github.com/user-attachments/assets/fa00c3a5-78da-4d0a-af15-c3198f1311f9" />
+<img width="2276" height="1140" alt="image" src="https://github.com/user-attachments/assets/40d2fecb-26fa-4bb2-9109-86c724dce984" />
+
 
 ##LINE FOLLOWER SENSOR 3D VIEW
 
 
 #FRONT 
-<img width="2442" height="1031" alt="image" src="https://github.com/user-attachments/assets/11fb0fda-b96b-4ec4-8603-ebad11997aaf" />
+<img width="2124" height="917" alt="image" src="https://github.com/user-attachments/assets/11486bce-2a8a-4bff-aa59-a62b1006b613" />
+
 
 
 #BACK
